@@ -1,4 +1,5 @@
 class Song
   
-  attr_accessor :
+  attr_accessor :title
+  
 end
